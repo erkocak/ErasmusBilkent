@@ -1,4 +1,4 @@
-# CS319-Erasmus-Project / Group Name: GO:CS
+# CS319-Erasmus-Project
 
 ErasmusBilkent is a web-based Erasmus Application Manager software. This software is intended to digitalise all Erasmus applications on an online platform and to eliminate manual check processes such as e-mails and paper forms. After the early placement for the program, the website is planned to be used by incoming/outgoing students, department coordinators, instructors, and the exchange office. 
  
@@ -20,17 +20,15 @@ Considering the description of ErasmusBilkent above, key features of this softwa
 In general, this application will be useful for minimizing the paperwork and mailing coordinators by providing better document communication tools. Also, students will be able to track their application processes more easily. Access to course details, documents and operations will also be provided to students for a better, accelerated experience. Application will not only benefit the outgoing/incoming Erasmus students, but also systematically reduce the workload of coordinators, instructors and administratives. Overall, ErasmusBilkent web application aims to support every user who is involved in the Erasmus application process by providing practical solutions.
  
  
-Group Name: GO:CS
 
 Team Members:
+Mustafa Burak Erkoçak
 
-Ağahan Sözeri 22003918
+Ağahan Sözeri
 
-Ahmet Tuğrul Sağlam 22003306
+Ahmet Tuğrul Sağlam
 
-Mustafa Burak Erkoçak 22003609
+Emre Uğur
 
-Emre Uğur 22002802 
-
-İpek Öztaş 22003250 
+İpek Öztaş
 
